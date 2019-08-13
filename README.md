@@ -1,4 +1,5 @@
-# QChat-An Online Chat Based On UDP&WebSockets Powered By QT
+# QChat
+An Online Chat Based On UDP&WebSockets Powered By QT
 ## Feature
 Basic Feature of IM
 
